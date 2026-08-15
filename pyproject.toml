@@ -1,0 +1,9 @@
+[project]
+name = "manim-chemtex"
+version = "0.1.0"
+description = "Chemical structure and reaction rendering utilities for Manim"
+requires-python = ">=3.10"
+
+dependencies = [
+    "manim",
+]
